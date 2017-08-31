@@ -1,0 +1,12 @@
+<!--login.wxml-->
+<view class="section">
+<form>
+  <view class="flex-wrp" style="flex-direction:column;">
+    <view class="flex-item"><input id="phone" bindinput="inputPhone"  maxlength="11" placeholder="手机号:" confirm-type="done" class="flex-item-input" type="text"/></view>
+    <view class="flex-item"><input  id="pwd" bindinput="inputPwd"   maxlength="20" placeholder="密码:" confirm-type="done" class="flex-item-input"  type="password"/></view>
+    <view class="flex-item">
+      <button type="primary" bindtap="login" form-type="submit" size="default"  class="flex-item-button" > {{buttonText}} </button>
+    </view>
+  </view>
+</form>
+</view>

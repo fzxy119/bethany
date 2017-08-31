@@ -1,0 +1,63 @@
+<!--artlist.wxml-->
+
+<view class="scr_section">
+  <view class="scr_section_search"><input placeholder="搜索"  type="text" confirm-type="search" bindconfirm="search" /></view>
+  <scroll-view scroll-y  style="height:200px;">
+    <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+    <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+      <view style="flex-direction:row;" class="list-view">
+       <view class="list-view-left"><text>adsfasdf</text></view> 
+       <view class="list-view-right"><text>sssssssssssss</text></view> 
+    </view>
+  </scroll-view>
+</view>
